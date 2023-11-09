@@ -1,0 +1,22 @@
+.NavBar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #000;
+    background-color: yellow;
+}
+
+.Name-shop {
+    font-size: 2rem;
+}
+
+.Deco {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+
+.Display {
+    margin: 5px;
+}
