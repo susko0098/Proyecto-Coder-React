@@ -15,8 +15,24 @@
     display: flex;
     text-decoration: none;
     list-style: none;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    
 }
 
 .Display {
     margin: 5px;
+}
+
+.ActiveOption{
+    background-color: black;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.Option{
+    background-color: yellow;
+    padding: 2px 5px;
 }
