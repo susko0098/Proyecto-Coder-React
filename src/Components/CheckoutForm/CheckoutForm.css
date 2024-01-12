@@ -1,0 +1,24 @@
+.Label{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.space {
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+    font-size: 2.5rem;
+}
+
+.Input{
+    font-size: 2rem;
+}
+
+.compra{
+    margin-top: 10px;
+    font-size: 1.5rem;
+}

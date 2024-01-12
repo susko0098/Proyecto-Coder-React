@@ -1,0 +1,17 @@
+.btn-up-dw {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: yellow;
+}
+
+.contador {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ad-cart {
+    padding: 5px;
+    margin-top: 15px;
+    color: blue;
+    background-color: yellow;
+}
